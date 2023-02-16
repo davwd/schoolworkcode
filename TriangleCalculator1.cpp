@@ -1,8 +1,7 @@
 /**
  * This program uses 3 sides of a triangle and the Heron formula to determine its area.
  * File: TriangleCalculator1.cpp
- * Course: CSC 1253 Section #1 Project #1
- * Instructor: Dr. William Duncan
+ * Course: CSC 1253 
  * </pre>
  */
 
